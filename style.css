@@ -3,3 +3,14 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{width: 700px;
+margin: auto;
+padding: auto;
+}
+body{width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
+figure{margin-left: auto;
+  margin-right: auto;
+  width: 500px;}
